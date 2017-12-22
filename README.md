@@ -8,6 +8,11 @@ Legend:
 * BL - BootLoader
 ---
 21.12.2017 - global updating to version 1.10, MCU firmware updating is required
+
   Indicating of bootloader mode and firmware version
+  
   Control of 1 Watt driver
+  
   When Alex board is not enabled, pin 12 DATA works as UO-4, pin 13 works as UO-5, pin 14 EN works as UO-6
+  
+  
